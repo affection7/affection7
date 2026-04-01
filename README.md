@@ -1,16 +1,32 @@
-## Hi there 👋
+# Привет! Я Алексей Сальков 👋
 
-<!--
-**affection7/affection7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Начинающий Data Engineer | BI Analyst
 
-Here are some ideas to get you started:
+Начинающий специалист в области **Data Engineering** с базовым опытом работы с данными и аналитическими инструментами. Я искренне увлечен построением ETL-процессов, разработкой дата-пайплайнов и проектированием хранилищ данных. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Стремлюсь развиваться на стыке инженерии данных и BI-аналитики. Быстро осваиваю новые технологии, внимателен к деталям и нацелен на результат в командной работе.
+
+---
+
+### 🛠 Стек технологий и инструменты
+
+*   **Языки и Анализ данных:** 
+    ![Python](https://shields.io) 
+    ![Pandas](https://shields.io) 
+    ![NumPy](https://shields.io)
+*   **Базы данных и Хранилища:** 
+    ![SQL](https://shields.io) 
+    ![PostgreSQL](https://shields.io) 
+    ![Greenplum](https://shields.io) 
+*   **Оркестрация и Инструменты:** 
+    ![Airflow](https://shields.io) 
+    ![Git](https://shields.io) 
+    ![Docker](https://shields.io)
+
+---
+
+### 🚀 Ключевые компетенции
+*   Разработка и поддержка **ETL/ELT** процессов в **Apache Airflow**.
+*   Написание сложных аналитических запросов на **SQL**.
+*   Работа с распределенными хранилищами данных (**Greenplum**).
+*   Автоматизация обработки данных на **Python**.
