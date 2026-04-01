@@ -11,17 +11,17 @@
 ### 🛠 Стек технологий и инструменты
 
 *   **Языки и Анализ данных:** 
-    ![Python](https://shields.io) 
-    ![Pandas](https://shields.io) 
-    ![NumPy](https://shields.io)
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+    ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+    ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 *   **Базы данных и Хранилища:** 
-    ![SQL](https://shields.io) 
-    ![PostgreSQL](https://shields.io) 
-    ![Greenplum](https://shields.io) 
+    ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+    ![Greenplum](https://img.shields.io/badge/Greenplum-00875E?style=flat&logo=vmware&logoColor=white)
 *   **Оркестрация и Инструменты:** 
-    ![Airflow](https://shields.io) 
-    ![Git](https://shields.io) 
-    ![Docker](https://shields.io)
+    ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+    ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
